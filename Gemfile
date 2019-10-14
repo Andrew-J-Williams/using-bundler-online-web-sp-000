@@ -7,3 +7,4 @@ gem "pry"
 end
 
 group :development do
+  gem "hashie"
