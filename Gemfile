@@ -6,6 +6,4 @@ group :development do
 gem "pry"
 end
 
-group :development do
-  gem "hashie"
-end
+gem "hashie"
